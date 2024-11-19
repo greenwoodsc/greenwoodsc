@@ -38,7 +38,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/windhamdavid/thewood/src/main/',
+            'https://github.com/windhamdavid/thewood/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -83,6 +83,12 @@ const config = {
           },
           {to: '/log', label: 'Log', position: 'left'},
         ],
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
       },
       footer: {
         style: 'light',
