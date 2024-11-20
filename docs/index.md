@@ -2,38 +2,38 @@
 
 ## References
 
-Wikipedia - Greenwood, South Carolina - https://en.wikipedia.org/wiki/Greenwood,_South_Carolina  
-Greenwood County, South Carolina - https://en.wikipedia.org/wiki/Greenwood_County,_South_Carolina  
+[Greenwood, South Carolina](https://en.wikipedia.org/wiki/Greenwood,_South_Carolina)  
+[Greenwood County, South Carolina](https://en.wikipedia.org/wiki/Greenwood_County,_South_Carolina)  
 
 ## Geography
 
-Ninety-Six District, South Carolina - https://en.wikipedia.org/wiki/Ninety-Six_District,_South_Carolina  
+[Ninety-Six District, South Carolina](https://en.wikipedia.org/wiki/Ninety-Six_District,_South_Carolina)  
 
-Ninety Six, South Carolina - https://en.wikipedia.org/wiki/Ninety_Six,_South_Carolina  
-Hodges, South Carolina - https://en.wikipedia.org/wiki/Hodges,_South_Carolina  
-Troy, South Carolina - https://en.wikipedia.org/wiki/Troy,_South_Carolina  
-Ware Shoals, South Carolina - https://en.wikipedia.org/wiki/Ware_Shoals,_South_Carolina  
+[Ninety Six, South Carolina](https://en.wikipedia.org/wiki/Ninety_Six,_South_Carolina)  
+[Hodges, South Carolina](https://en.wikipedia.org/wiki/Hodges,_South_Carolina)  
+[Troy, South Carolina](https://en.wikipedia.org/wiki/Troy,_South_Carolina)  
+[Ware Shoals, South Carolina](https://en.wikipedia.org/wiki/Ware_Shoals,_South_Carolina)  
 
-Bradley, South Carolina - https://en.wikipedia.org/wiki/Bradley,_South_Carolina  
-Cokesbury, South Carolina - https://en.wikipedia.org/wiki/Cokesbury,_South_Carolina  
-Coronaca, South Carolina - https://en.wikipedia.org/wiki/Coronaca,_South_Carolina  
-Promised Land, South Carolina - https://en.wikipedia.org/wiki/Promised_Land,_South_Carolina  
-Pittsburg, South Carolina - https://en.wikipedia.org/wiki/Pittsburg,_South_Carolina 
+[Bradley, South Carolina](https://en.wikipedia.org/wiki/Bradley,_South_Carolina)  
+[Cokesbury, South Carolina](https://en.wikipedia.org/wiki/Cokesbury,_South_Carolina)  
+[Coronaca, South Carolina](https://en.wikipedia.org/wiki/Coronaca,_South_Carolina)  
+[Promised Land, South Carolina](https://en.wikipedia.org/wiki/Promised_Land,_South_Carolina)  
+[Pittsburg, South Carolina](https://en.wikipedia.org/wiki/Pittsburg,_South_Carolina)  
 
-Lake Greenwood - https://en.wikipedia.org/wiki/Lake_Greenwood_(South_Carolina)  
-Saluda River - https://en.wikipedia.org/wiki/Saluda_River  
-Piedmont - https://en.wikipedia.org/wiki/Piedmont_(United_States)  
+[Lake Greenwood](https://en.wikipedia.org/wiki/Lake_Greenwood_(South_Carolina))  
+[Saluda River](https://en.wikipedia.org/wiki/Saluda_River)  
+[Piedmont](https://en.wikipedia.org/wiki/Piedmont_(United_States))  
 
-Abbeville County - https://en.wikipedia.org/wiki/Abbeville_County,_South_Carolina  
-Edgefield County - https://en.wikipedia.org/wiki/Edgefield_County,_South_Carolina  
-McCormick County - https://en.wikipedia.org/wiki/McCormick_County,_South_Carolina  
-Saluda County - https://en.wikipedia.org/wiki/Saluda_County,_South_Carolina  
-Laurens County - https://en.wikipedia.org/wiki/Laurens_County,_South_Carolina  
-Newberry County - https://en.wikipedia.org/wiki/Newberry_County,_South_Carolina  
+[Abbeville County](https://en.wikipedia.org/wiki/Abbeville_County,_South_Carolina)  
+[Edgefield County](https://en.wikipedia.org/wiki/Edgefield_County,_South_Carolina)  
+[McCormick County](https://en.wikipedia.org/wiki/McCormick_County,_South_Carolina)  
+[Saluda County](https://en.wikipedia.org/wiki/Saluda_County,_South_Carolina)  
+[Laurens County](https://en.wikipedia.org/wiki/Laurens_County,_South_Carolina)  
+[Newberry County](https://en.wikipedia.org/wiki/Newberry_County,_South_Carolina)  
 
 ## History
 
-Long Cane Massacre - https://en.wikipedia.org/wiki/Long_Cane_Massacre_Site  
+[Long Cane Massacre Site](httpspedia.orga.orga.org/wiki/Long_Cane_Massacre_Site)
 [Brewer Normal Institute](https://en.wikipedia.org/wiki/Brewer_Normal_Institute)
 
 ### People
@@ -67,7 +67,7 @@ SC Dept of Social Services - https://dss.sc.gov/contact-dss/upstate-region/green
 ### Representatives
 
 Billy Garrett - https://en.wikipedia.org/wiki/Billy_Garrett_(politician)  
-John McCravy - https://en.wikipedia.org/wiki/John_R._McCravy_III    
+John McCravy - https://en.wikipedia.org/wiki/John_R._McCravy_III
 
 ### Public Works
 
@@ -92,7 +92,6 @@ Greenwood School District 51 (Ware Shoals)
 [Ware Shoals High School](https://en.wikipedia.org/wiki/Ware_Shoals_High_School)  
 Greenwood School District 52 (Ninety Six)  
 
-
 ## Non Profit
 
 Greenwood Community Foundation - https://www.greenwoodcf.org  
@@ -108,7 +107,6 @@ Greenwood Museum - https://www.greenwoodmuseum.org
 ## Events
 
 Festival of Flowers - https://scfestivalofflowers.org  
-
 
 ## Business
 
@@ -127,7 +125,6 @@ Greenwood Capital - https://greenwoodcapital.com
 Countybank - https://www.ecountybank.com  
 
 ## Churches
-
 
 ## Entertainment
 

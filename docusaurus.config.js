@@ -81,6 +81,7 @@ const config = {
             position: 'left',
             label: 'Index',
           },
+          {to: '/dev', label: 'Dev', position: 'left'},
           {to: '/log', label: 'Log', position: 'left'},
         ],
       },
@@ -99,6 +100,18 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'dev',
+        path: 'dev',
+        routeBasePath: 'dev',
+        sidebarPath: require.resolve('./sidebarsdev.js'),
+        showLastUpdateTime: true,
+      }
+    ],
+  ],
 };
 
 export default config;
