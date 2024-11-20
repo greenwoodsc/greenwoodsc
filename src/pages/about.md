@@ -6,8 +6,6 @@ toc_max_heading_level: 5
 hide_table_of_contents: false
 ---
 
-# About
-
 I started this website because I needed some data to test vector embeddings[^1] to use alongside of large language models[^2] for natural language processing[^3]. If this reads like gibberish, just know that these are used in machine learning[^4] and artificial intelligence[^5]. 
 
 
@@ -34,7 +32,7 @@ I'm building this mostly as a learning tool. I also tend to think that the web i
 
 ### How
 
-This website is powered by static [HTML](https://en.wikipedia.org/wiki/HTML) generated using [Docusaurus](https://docusaurus.io). It allows me to keep all of the documents in a very simple [Markdown](https://en.wikipedia.org/wiki/Markdown) format which I've found is much easier to automate the parsing and of the copy into a vectdor database. I'll be hosting it as I build and making the code publicly available so that it'll allow for contributors.
+This website is powered by static [HTML](https://en.wikipedia.org/wiki/HTML) generated using [Docusaurus](https://docusaurus.io). It allows me to keep all of the documents in a very simple [Markdown](https://en.wikipedia.org/wiki/Markdown) format which I've found is much easier to automate the parsing and of the copy into a vector database. I'll be hosting it as I build and making the code publicly available so that it'll allow for contributors.
 
 <div>&nbsp;</div>
 
