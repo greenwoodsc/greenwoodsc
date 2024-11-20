@@ -38,6 +38,13 @@ Long Cane Massacre - https://en.wikipedia.org/wiki/Long_Cane_Massacre_Site
 
 ### People
 
+[Benjamin Mays](https://en.wikipedia.org/wiki/Benjamin_Mays)  
+[Pinky Babb](https://en.wikipedia.org/wiki/Pinky_Babb)  
+[John McKissick](https://en.wikipedia.org/wiki/John_McKissick)  
+[Catharine Rembert](https://en.wikipedia.org/wiki/Catharine_Rembert)  
+[Jim Lander](https://en.wikipedia.org/wiki/Jim_Lander)  
+[Wendy Lee Queen](https://en.wikipedia.org/wiki/Wendy_Lee_Queen)  
+
 ### Places
 
 [National Register of Historic Places listings in Greenwood County, South Carolina](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Greenwood_County,_South_Carolina)
