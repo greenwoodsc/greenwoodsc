@@ -33,7 +33,7 @@
 
 ## History
 
-[Long Cane Massacre Site](httpspedia.orga.orga.org/wiki/Long_Cane_Massacre_Site)
+[Long Cane Massacre Site](https://en.wikipedia.org/wiki/Long_Cane_Massacre_Site)
 [Brewer Normal Institute](https://en.wikipedia.org/wiki/Brewer_Normal_Institute)
 
 ### People
