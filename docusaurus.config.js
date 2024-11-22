@@ -73,7 +73,7 @@ const config = {
         title: 'Greenwood, South Carolina',
         logo: {
           alt: 'Greenwood, South Carolina',
-          src: 'img/gwsc.png',
+          src: 'img/sc.png',
         },
         items: [
           {to: '/about', label: 'About', position: 'left'},
