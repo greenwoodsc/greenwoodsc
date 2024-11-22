@@ -44,6 +44,8 @@
 [Catharine Rembert](https://en.wikipedia.org/wiki/Catharine_Rembert)  
 [Jim Lander](https://en.wikipedia.org/wiki/Jim_Lander)  
 [Wendy Lee Queen](https://en.wikipedia.org/wiki/Wendy_Lee_Queen)  
+[George Singleton](https://en.wikipedia.org/wiki/George_Singleton)  
+ 
 
 ### Places
 
