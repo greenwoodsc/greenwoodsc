@@ -1,5 +1,25 @@
 # Schemas
 
+Spot on. He was part of starting that program. A georgia boy with an MA in creative writing from a NE liberal arts college. 
+
+Edge headed up the Southern Foodways Alliance back when it was having a bit of rennaisaince. Grisham brought Oxford American to life with and put Edge in charge of food. Edge and I talked for hours about music with the founding editor... Smirnoff. It was at Matt Lee's mom's house on Meeting St because he had just published his cook book with his brother. This was 97'-98' or so... pre-Oxford Music Issues so I'd like to think I had a hand in them deciding to publish a music issue. 
+
+Louis' set the meeting up after I complied all the music for his places. the music got a nod in the Los Angeles Times after Steve Wynn set him up there which is where Smirnoff picked up on it. I made them mainly becuase I had all the files from setting up the radio stations for dad and Woody and we had gone deep recording old 45s. We used 20 disc changers on a timer. He got sued by ASCAP and won because we had pre-submitted all the masters and docs. Took me months putting those together but he paid me well for it. 
+
+https://davidawindham.com/louiss-las-vegas/
+
+Another character tight in that crew was Christopher Dickey, James' son. He spent a lot of time with us and was working as the bureau cheif of Time magazine's Paris office. He had some stories to tell and I always liked drinking and talking with him. 
+
+Got to meet and hang with a bunch of people with Louis mainly because he had become a bit of a southern celebrity. He's dead now. Got diagnosed with a bunch of cancer, moved up to highlands nc. Went up to hang out with him a couple times before he died. Prognosis was bad so he knew he was going to die. I strongly recommend talking with someone riding the pale horse if you've never done it. It'll change your perspective. 
+
+https://en.wikipedia.org/wiki/List_of_English-language_expressions_related_to_death
+
+But that's not my ole Miss southern studies celebrity highlight... my first roommate in college David Boyd's father did all the political cartoons for the AJC. He had just illustrated Jeff Foxworthy's Redneck books. We went back to Newnan GA to hang. He, his dad and I had lunch with Foxworthy and his good friend Lewis Grizzard at a small cafe. Dave and I still talk. We were over at his studio in Newnan last year. His wife and mine have the same career. Funny how that all works out. I'm gonna read the Singleton book. I like his attitude. 
+
+
+
+
+
 ## Structure
 
 ### Breadcrumb
