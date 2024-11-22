@@ -96,8 +96,8 @@ const config = {
         copyright: `CC BY-NC-SA U+1F16E ${new Date().getFullYear()} `,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        theme: prismThemes.vsLight,
+        darkTheme: prismThemes.vsDark,
       },
     }),
   plugins: [

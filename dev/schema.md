@@ -1,4 +1,4 @@
-# Schemas
+# Schema
 
 ## Structure
 
