@@ -1,6 +1,9 @@
 # Dev
 
-Just a a place to make notes along the way 🐇
+Just a place to make notes along the way 🐇 
+
+Project 🛠️ repo @ https://github.com/greenwoodsc 
+
 
 ## Log
 

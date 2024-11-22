@@ -23,6 +23,10 @@ const sidebars = {
       type:'doc',
       id: 'index',
     },
+    {
+      type:'doc',
+      id: 'reference',
+    },
   ]
 
   // But you can create a sidebar manually
