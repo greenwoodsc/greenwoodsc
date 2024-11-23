@@ -10,8 +10,6 @@
 /lists/.obsidian/*
 /posts/.obsidian/*
 
-# Production
-/build
 
 # Generated files
 .docusaurus
