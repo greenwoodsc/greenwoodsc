@@ -10,10 +10,10 @@ jobs:
       - name: gwsc-deploy-key
         uses: shimataro/ssh-key-action@v2
         with:
-          key: ${{ secrets.GIT_ZEKE_SSH }}
+          key: ${{ secrets.GIT_ZEKE_KEY }}
           known_hosts: unnecessary
           if_key_exists: fail
       - name: gwsc-known_hosts
         run: ssh-keyscan -p ${{ secrets.GIT_ZEKE_PORT }} -H ${{ secrets.GIT_ZEKE_HOST }} >> ~/.ssh/known_hosts   
       - name: gwsc-rsync
-        run: rsync -aPvz -e "ssh -p ${{ secrets.GIT_ZEKE_PORT }}" --exclude=img/.DS_Store --exclude=robots.txt ./build/ "ssh -p ${{ secrets.GIT_ZEKE_PORT }}" --delete ${{ secrets.ZEKE_USER }}@${{ secrets.ZEKE_HOST }}:/var/www/gwsc.net/html/_test/
+        run: rsync -aPvz -e "ssh -p ${{ secrets.GIT_ZEKE_PORT }}" --exclude=img/.DS_Store --exclude=robots.txt  --delete ./build/ ${{ secrets.GIT_ZEKE_USER }}@${{ secrets.GIT_ZEKE_HOST }}:/var/www/gwsc.net/html/_test/
