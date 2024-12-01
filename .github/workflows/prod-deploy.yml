@@ -1,0 +1,20 @@
+name: gwsc-prod-deploy
+on:
+  push:
+    branches:
+      - prod
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: gwsc-deploy-key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.GIT_ZEKE_SSH }}
+          known_hosts: unnecessary
+          if_key_exists: fail
+      - name: gwsc-known_hosts
+        run: ssh-keyscan -p ${{ secrets.GIT_ZEKE_PORT }} -H ${{ secrets.GIT_ZEKE_HOST }} >> ~/.ssh/known_hosts   
+      - name: gwsc-rsync
+        run: rsync -aPvz -e --exclude=img/.DS_Store --exclude=robots.txt ./build/ "ssh -p ${{ secrets.      GIT_ZEKE_PORT }}" --delete ${{ secrets.ZEKE_USER }}@${{ secrets.ZEKE_HOST }}:/var/www/gwsc.net/      html/_test/ --dry-run
