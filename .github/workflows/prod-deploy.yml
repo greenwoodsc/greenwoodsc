@@ -16,4 +16,4 @@ jobs:
       - name: gwsc-known_hosts
         run: ssh-keyscan -p ${{ secrets.GIT_ZEKE_PORT }} -H ${{ secrets.GIT_ZEKE_HOST }} >> ~/.ssh/known_hosts   
       - name: gwsc-rsync
-        run: rsync -aPvz -e "ssh -p ${{ secrets.GIT_ZEKE_PORT }}" --exclude=img/.DS_Store --exclude=robots.txt  --delete ./build/ ${{ secrets.GIT_ZEKE_USER }}@${{ secrets.GIT_ZEKE_HOST }}:/var/www/greenwoodsc.net/html/_test/
+        run: rsync -aPvz -e "ssh -p ${{ secrets.GIT_ZEKE_PORT }}" --exclude=img/.DS_Store --exclude=robots.txt  --delete build/ ${{ secrets.GIT_ZEKE_USER }}@${{ secrets.GIT_ZEKE_HOST }}:/var/www/greenwoodsc.net/html/_test/
