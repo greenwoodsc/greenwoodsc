@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - prod
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -17,4 +16,4 @@ jobs:
       - name: gwsc-known_hosts
         run: ssh-keyscan -p ${{ secrets.GIT_ZEKE_PORT }} -H ${{ secrets.GIT_ZEKE_HOST }} >> ~/.ssh/known_hosts   
       - name: gwsc-rsync
-        run: rsync -aPvz -e --exclude=img/.DS_Store --exclude=robots.txt ./build/ "ssh -p ${{ secrets.      GIT_ZEKE_PORT }}" --delete ${{ secrets.ZEKE_USER }}@${{ secrets.ZEKE_HOST }}:/var/www/gwsc.net/      html/_test/ --dry-run
+        run: rsync -aPvz -e --exclude=img/.DS_Store --exclude=robots.txt ./build/ "ssh -p ${{ secrets.      GIT_ZEKE_PORT }}" --delete ${{ secrets.ZEKE_USER }}@${{ secrets.ZEKE_HOST }}:/var/www/gwsc.net/html/_test/
