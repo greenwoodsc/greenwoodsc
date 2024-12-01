@@ -4,6 +4,28 @@ on:
     branches:
       - prod
 jobs:
+  build:
+    name: Build Docusaurus
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: yarn
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+      - name: Build website
+        run: yarn build
+
+      - name: Upload Build Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
+
   deploy:
     runs-on: ubuntu-latest
     steps:
@@ -16,4 +38,4 @@ jobs:
       - name: gwsc-known_hosts
         run: ssh-keyscan -p ${{ secrets.GIT_ZEKE_PORT }} -H ${{ secrets.GIT_ZEKE_HOST }} >> ~/.ssh/known_hosts   
       - name: gwsc-rsync
-        run: rsync -aPvz -e "ssh -p ${{ secrets.GIT_ZEKE_PORT }}" --exclude=img/.DS_Store --exclude=robots.txt  --delete build/ ${{ secrets.GIT_ZEKE_USER }}@${{ secrets.GIT_ZEKE_HOST }}:/var/www/greenwoodsc.net/html/_test/
+        run: rsync -aPvz -e "ssh -p ${{ secrets.GIT_ZEKE_PORT }}" --exclude=img/.DS_Store --exclude=robots.txt --delete build/ ${{ secrets.GIT_ZEKE_USER }}@${{ secrets.GIT_ZEKE_HOST }}:/var/www/greenwoodsc.net/html/_test/
