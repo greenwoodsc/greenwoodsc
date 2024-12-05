@@ -1,0 +1,13 @@
+{
+  "label": "Geography",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Geography"
+  },
+  "customProps": {
+    "description": "can be swizzled in DocCard"
+  }
+}

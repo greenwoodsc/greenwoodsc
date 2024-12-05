@@ -2,6 +2,7 @@
 
 [Greenwood, South Carolina](https://en.wikipedia.org/wiki/Greenwood,_South_Carolina)  
 [Greenwood County, South Carolina](https://en.wikipedia.org/wiki/Greenwood_County,_South_Carolina)  
+[South Carolina Association of Counties](https://www.sccounties.org/county/greenwood-county)
 
 ## Geography
 

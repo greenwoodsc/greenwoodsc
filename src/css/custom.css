@@ -50,3 +50,13 @@ html[data-theme='dark'] {
 ol li > p {
   margin: 0;
 }
+
+.announcementBar_mb4j {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 1.2em;
+}
+
+div[class^="announcementBar_"] {
+  height: auto;
+}

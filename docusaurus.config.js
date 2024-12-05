@@ -13,20 +13,13 @@ const config = {
   favicon: 'img/favicon.ico',
   url: 'https://greenwoodsc.net',
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'greenwoodsc', // Usually your GitHub org/user name.
-  projectName: 'greenwoodsc', // Usually your repo name.
+  organizationName: 'greenwoodsc',
+  projectName: 'greenwoodsc',
   deploymentBranch: 'main',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -40,7 +33,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/windhamdavid/thewood/tree/main/',
+            'https://github.com/greenwoodsc/thewood/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -48,11 +41,8 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/windhamdavid/thewood/tree/main/',
-          // Useful options to enforce blogging best practices
+            'https://github.com/greenwoodsc/thewood/tree/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -67,7 +57,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      announcementBar: {
+        id: 'announcement',
+        content:
+          'This website is a public data science experiment. You can learn more about it @ <a href="/docs/about">/docs/about</a>',
+        backgroundColor: '#a00000',
+        textColor: '#ffffff',
+        isCloseable: false,
+      },
       image: 'img/sc.png',
       navbar: {
         title: 'Greenwood, South Carolina',
@@ -76,16 +73,13 @@ const config = {
           src: 'img/sc.png',
         },
         items: [
-          {to: '/about', label: 'About', position: 'left'},
-          {
-            type: 'docSidebar',
-            sidebarId: 'docs',
-            position: 'left',
-            label: 'Index',
-          },
-          {to: '/dev', label: 'Dev', position: 'left'},
-          {to: '/log', label: 'Log', position: 'left'},
+          {to: '/index', label: 'Index', position: 'left'},
+          {to: '/docs', label: 'Docs', position: 'right'},
+          {to: '/dev', label: 'Dev', position: 'right'},
         ],
+      },
+      colormode: {
+        respectPrefersColorScheme: true,
       },
       docs: {
         sidebar: {
@@ -110,6 +104,16 @@ const config = {
         path: 'dev',
         routeBasePath: 'dev',
         sidebarPath: require.resolve('./sidebarsdev.js'),
+        showLastUpdateTime: true,
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'index',
+        path: 'index',
+        routeBasePath: 'index',
+        sidebarPath: require.resolve('./sidebarsindex.js'),
         showLastUpdateTime: true,
       }
     ],

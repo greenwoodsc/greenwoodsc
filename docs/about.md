@@ -11,7 +11,9 @@ I started this website because I needed some data to test vector embeddings[^1] 
 
 ## Who
 
-My name is David Windham and I live in Greenwood, South Carolina. I work as a software and web developer. You can visit my website @ [davidwindham.com](https://davidwindham.com) or read my bio @ [/bio](https://davidawindham.com/bio). Everywhere I'm online is available @ [/sitemap](https://davidawindham.com/sitemap)
+My name is David Windham and I live in Greenwood, South Carolina.  
+I work as a software and web developer.  
+My website is @ [davidwindham.com](https://davidwindham.com)
 
 ## What
 
@@ -31,7 +33,7 @@ I'm building this mostly as a learning tool. I also tend to think that the web i
 
 ## How
 
-This website is powered by static [HTML](https://en.wikipedia.org/wiki/HTML) generated using [Docusaurus](https://docusaurus.io). It allows me to keep all of the documents in a very simple [Markdown](https://en.wikipedia.org/wiki/Markdown) format which I've found is much easier to automate the parsing and of the copy into a vector database. I'll be hosting it as I build and making the code publicly available so that it'll allow for contributors.
+This website is powered by static [HTML](https://en.wikipedia.org/wiki/HTML) generated using [Docusaurus](https://docusaurus.io). It allows me to keep all of the documents in a simple [Markdown](https://en.wikipedia.org/wiki/Markdown) so that it's easier to automate the parsing into a vector database. I've automated the build build, making the code publicly available, and documenting the proccess @ [/dev](/dev) 
 
 <div>&nbsp;</div>
 
